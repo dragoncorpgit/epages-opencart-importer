@@ -1,0 +1,41 @@
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\bin\Debug\Exportar.exe.config
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\bin\Debug\Exportar.exe
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\bin\Debug\Exportar.pdb
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\obj\Debug\Exportar.csprojResolveAssemblyReference.cache
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\obj\Debug\Exportar.Form1.resources
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\obj\Debug\Exportar.Properties.Resources.resources
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\obj\Debug\Exportar.csproj.GenerateResource.Cache
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\obj\Debug\Exportar.exe
+c:\users\gaming\documents\visual studio 2012\Projects\Exportar\Exportar\obj\Debug\Exportar.pdb
+C:\Users\Gaming\Documents\Visual Studio 2012\Projects\Exportar\Exportar\bin\Debug\MySql.Data.dll
+D:\Exportar\Exportar\bin\Debug\Exportar.exe.config
+D:\Exportar\Exportar\bin\Debug\Exportar.exe
+D:\Exportar\Exportar\bin\Debug\Exportar.pdb
+D:\Exportar\Exportar\obj\Debug\Exportar.Form1.resources
+D:\Exportar\Exportar\obj\Debug\Exportar.Properties.Resources.resources
+D:\Exportar\Exportar\obj\Debug\Exportar.csproj.GenerateResource.Cache
+D:\Exportar\Exportar\obj\Debug\Exportar.exe
+D:\Exportar\Exportar\obj\Debug\Exportar.pdb
+D:\Exportar\Exportar\obj\Debug\Exportar.csprojResolveAssemblyReference.cache
+D:\Exportar\Exportar\bin\Debug\MySql.Data.dll
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\bin\Debug\Exportar.exe.config
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\obj\Debug\Exportar.exe
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\obj\Debug\Exportar.pdb
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\bin\Debug\Exportar.exe
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\bin\Debug\Exportar.pdb
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\obj\Debug\Exportar.csprojResolveAssemblyReference.cache
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\obj\Debug\Exportar.Form1.resources
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\obj\Debug\Exportar.Properties.Resources.resources
+E:\MEGAsync\Visual Studio Projects\Exportar\Exportar\obj\Debug\Exportar.csproj.GenerateResource.Cache
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\bin\Debug\Exportar.exe.config
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\bin\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\bin\Debug\Exportar.pdb
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\obj\Debug\Exportar.Form1.resources
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\obj\Debug\Exportar.Properties.Resources.resources
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\obj\Debug\Exportar.csproj.GenerateResource.Cache
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\obj\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\obj\Debug\Exportar.pdb
+E:\Dropbox\TPSI\Projeto\importer\Exportar\Exportar\obj\Debug\Exportar.csprojResolveAssemblyReference.cache
+E:\Dropbox\TPSI\Projeto\CD\Exportar\Exportar\bin\Debug\Exportar.exe.config
+E:\Dropbox\TPSI\Projeto\CD\Exportar\Exportar\obj\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\CD\Exportar\Exportar\obj\Debug\Exportar.pdb

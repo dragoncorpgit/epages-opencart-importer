@@ -1,0 +1,25 @@
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\bin\Debug\Exportar.exe.config
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\obj\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\obj\Debug\Exportar.pdb
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\bin\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\bin\Debug\Exportar.pdb
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\obj\Debug\Importer.csprojResolveAssemblyReference.cache
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\obj\Debug\Exportar.Form1.resources
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\obj\Debug\Exportar.Properties.Resources.resources
+E:\Dropbox\TPSI\Projeto\CD\Importer\Exportar\obj\Debug\Importer.csproj.GenerateResource.Cache
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\bin\Debug\MySql.Data.dll
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\bin\Debug\Exportar.exe.config
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\bin\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\bin\Debug\Exportar.pdb
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\obj\Debug\Exportar.Form1.resources
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\obj\Debug\Exportar.Properties.Resources.resources
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\obj\Debug\Importer.csproj.GenerateResource.Cache
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\obj\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\obj\Debug\Exportar.pdb
+E:\Dropbox\TPSI\Projeto\CD\Importer\Importer\obj\Debug\Importer.csprojResolveAssemblyReference.cache
+E:\Dropbox\TPSI\Projeto\CD\Programa de Importação\Importer\bin\Debug\Exportar.exe.config
+E:\Dropbox\TPSI\Projeto\CD\Programa de Importação\Importer\obj\Debug\Exportar.exe
+E:\Dropbox\TPSI\Projeto\CD\Programa de Importação\Importer\obj\Debug\Exportar.pdb
+E:\github\epages-opencart-importer\Importer\bin\Debug\Exportar.exe.config
+E:\github\epages-opencart-importer\Importer\obj\Debug\Exportar.exe
+E:\github\epages-opencart-importer\Importer\obj\Debug\Exportar.pdb
